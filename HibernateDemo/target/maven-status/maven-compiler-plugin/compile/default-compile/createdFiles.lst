@@ -1,0 +1,5 @@
+models\Oportunidad.class
+com\mycompany\hibernatedemo\HibernateUtil.class
+models\Contacto.class
+com\mycompany\hibernatedemo\HibernateDemo.class
+models\Actividad.class
